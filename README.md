@@ -3,6 +3,6 @@ The Python code for Learning-based Radio Link Failure Prediction Based on Measur
   * CNN
   * LSTM
   * XGBoost
-  * AnomalyTransformer
+  * Anomaly Transformer
   * PatchTST
   * TimesNet
